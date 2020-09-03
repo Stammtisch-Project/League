@@ -6,7 +6,7 @@ These rules are never final and can always be updated. For an update/pull reques
 
 The main focus should be on the fun of the game but since unfair play isn't really funny these rules are created.
 
-# How to use Markdown
+## How to use Markdown
 
 Thanks to [The Markdown Guide](https://www.markdownguide.org) for this Markdown cheat sheet!
 
