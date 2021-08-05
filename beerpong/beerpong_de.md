@@ -13,10 +13,13 @@ Die Mannschaft, die zuerst alle Becher des gegnerischen Teams treffen konnte, is
 
 Treffen beide Spieler in der gleichen Runde einen Becher gibt es „Balls back“, das heißt sie bekommen die Bälle zurück und dürfen nochmal werfen.
 
-## Wegschlagen & Rausblasen
+## Bombe
 
-Springt der Ball auf dem Tisch auf bevor er in einen Becher geht, muss das gegnerische Team 2 Becher trinken; sobald der Ball den Tisch berührt hat, darf jedoch das verteidigende Team den Ball wegschlagen.
-Sich drehende Bälle im Becher dürfen aus diesem so herausgeholt werden, dass der Becher nicht umfällt.
+Treffen beide Spieler in der gleichen Runde den gleichen Becher, zählen sowohl der getroffene Becher, als auch alle direkt umschließende Becher als getroffen. Hier gibt es kein „Balls back“.
+
+## Wegschlagen
+
+Springt der Ball auf dem Tisch auf bevor er in einen Becher geht, darf das verteidigende Team den Ball wegschlagen. Fällt dabei ein oder mehrere Becher um, so zählen diese als getroffen.
 
 ## Ablenkungsmanöver
 
@@ -26,7 +29,6 @@ Ablenkungsmanöver sind erlaubt; Becher, Tisch und Gegner dürfen dabei nicht be
 
 Bei 6 und 3 Bechern kann das gegnerische Team wieder die Aufstellung in Dreiecksformation verlangen. Der letzte Becher muss immer mittig positioniert werden.
 
-## Nachwurf
+## Spielende
 
-Jedes Team muss gleich viele Schüsse haben. Wenn das Team, das begonnen hat, den letzten Becher trifft hat das andere Team einen oder zwei Nachwürfe, je nachdem ob das erste Team in dieser Runde schon einen oder zwei Bälle geworfen hat.
-Trifft das Team, das als zweites dran war den letzten Becher hat dieses ohne Nachwurf gewonnen.
+Trifft ein Team den letzten Becher des gegnerischen Teams, ist das Spiel sofort beendet.
